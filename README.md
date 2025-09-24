@@ -1,2 +1,4 @@
-# TreasureHuntGame
-Demo for a Pixar Cars themed Matching Tiles game
+### Treasure Hunt Game
+# Abinash Patti
+
+# Project Overview
