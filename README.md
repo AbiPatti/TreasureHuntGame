@@ -1,4 +1,4 @@
-### Treasure Hunt Game
-# Abinash Patti
+# Treasure Hunt Game
+### Abinash Patti
 
-# Project Overview
+## Project Overview
