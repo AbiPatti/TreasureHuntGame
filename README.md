@@ -7,7 +7,9 @@ The Cars Matching Game is a memory based tile game where the player has to uncov
 
 **NOTE**: This project was develpoed as part of a school assignment. Due to the institution's academic integrity rules, the source code cannot be publicly shared. However, the project's explanation in this README and the video demo are provided to showcase how the project functions.
 
-## Demonstration
+## Video Demonstration
+
+[Watch the demo](Demo_CarsMatchingGame.mp4)
 
 ## Game Logic
 
